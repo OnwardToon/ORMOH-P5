@@ -94,7 +94,7 @@ nav {
 }
 
 nav.scrolled {
-  background: var(--black-color);
+  background: linear-gradient(rgb(1, 12, 230), rgb(0, 0, 126), rgb(249, 4, 163));
   box-shadow: 0 16px 14px -8px rgba(214, 189, 4, 0.989);
   border-radius: 0 0 8px 8px;
   top: 0;
