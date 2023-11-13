@@ -95,7 +95,7 @@ nav {
 
 nav.scrolled {
   background: var(--black-color);
-  box-shadow: 0 16px 14px -8px rgba(0, 0, 0, 0.32);
+  box-shadow: 0 16px 14px -8px rgba(214, 189, 4, 0.989);
   border-radius: 0 0 8px 8px;
   top: 0;
   padding: 12px;
